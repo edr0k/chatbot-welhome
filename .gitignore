@@ -1,0 +1,6 @@
+# Ignorar o arquivo de variáveis de ambiente
+.env
+
+# Opcional: Ignorar pastas de ambiente virtual do Python
+/venv/
+/.venv/
