@@ -1,5 +1,6 @@
-# Ignorar o arquivo de variáveis de ambiente
+# Ignorar arquivos de variáveis de ambiente
 .env
+key.env
 
 # Opcional: Ignorar pastas de ambiente virtual do Python
 /venv/
