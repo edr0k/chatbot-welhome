@@ -3,7 +3,6 @@ from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain_core.output_parsers import PydanticOutputParser
 
-# Importa os prompts e modelos Pydantic do nosso arquivo de prompts
 from prompts import (
     prompt_chat_template,
     prompt_analysis_template,
